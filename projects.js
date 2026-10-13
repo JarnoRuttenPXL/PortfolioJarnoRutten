@@ -38,15 +38,7 @@ const PROJECTS = [
   images: [{ src: "Images/missie-maasland.jpg", w: 1258, h: 706, alt: "Visual van het project Missie Maasland voor Musea Maaseik" }],
   sections: [{ type: "list", title: "Mijn aandeel", items: ["Research fase", "Schetsen", "Logo", "Moodboard", "Prototype", "Componentenbibliotheek", "Brandbook"] }]
 },
-{
-  id: 3, slug: "boodschappen-app", featured: true,
-  title: "Boodschappen-app", category: "UI/UX", course: "UX Design",
-  tags: ["App", "Teamproject"],
-  shortDescription: "Een boodschappenapp met bestel- en leverfunctie en een lijstjesfunctie, ontwikkeld in een team van drie.",
-  fullDescription: ["Voor het vak UX Design ontwikkelden we in een team van drie een boodschappenapp waarmee gebruikers eenvoudig producten kunnen bestellen en laten leveren. Daarnaast implementeerden we een lijstjesfunctie waarmee je je boodschappen kunt organiseren per gelegenheid of voorkeur, zoals Kerstmis, vegetarisch, BBQ en meer."],
-  thumbnail: "Images/boodschappenApp.jpg",
-  images: [{ src: "Images/boodschappenApp.jpg", w: 956, h: 843, alt: "Mockups van een boodschappen-app" }], sections: []
-},
+
 {
   id: 4, slug: "take-away-website", featured: false,
   title: "Take-away website", category: "Web Development", course: "Scripting",
